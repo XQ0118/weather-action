@@ -10,5 +10,5 @@ UA="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, l
 curl \
   -H "Accept-Language: $LANGUAGE" \
   -H "User-Agent: $UA" \
-  -o kunminmg.html \
+  -o kunming.html \
   wttr.in/$CITY
